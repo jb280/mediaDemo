@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <button ion-button (click)="Playworking()"> Play Working</button>
+  <button ion-button (click)="Stopworking()"> Stop/Reset</button>
+  <p>Duration:&nbsp;{{d2Duration}} &nbsp;&nbsp;&nbsp;Retry:&nbsp; {{d2Cnt}}</p>
+
+  <button ion-button (click)="PlayNotworking()"> Play Not Working</button>
+  <button ion-button (click)="StopNotworking()"> Stop/Reset</button>
+  <p>Duration:&nbsp;{{d1Duration}} &nbsp;&nbsp;&nbsp;Retry:&nbsp; {{d1Cnt}}</p>
+
+</ion-content>

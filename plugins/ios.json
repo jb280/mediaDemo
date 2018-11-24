@@ -1,0 +1,37 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-media": {
+      "KEEP_AVAUDIOSESSION_ALWAYS_ACTIVE": "NO",
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "org.coastlands.ctw"
+    }
+  },
+  "dependent_plugins": {}
+}
